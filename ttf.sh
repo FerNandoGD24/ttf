@@ -1,5 +1,9 @@
 #!/bin/bash
 # -*- ENCODING: UTF-8 -*-
+#inicio
+    echo ::{::::::::::::::::::}::
+    echo ::{instalando fuentes¨::
+    echo ::{::::::::::::::::::}::
 #instalacion de fuentes
     sudo cat ttfp_* > ttf_u.tar.xz
     sudo xz -d ttf_u.tar.xz
